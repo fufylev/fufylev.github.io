@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.780d69b5.chunk.css",
-    "main.js": "/static/js/main.b1fb65aa.chunk.js",
-    "main.js.map": "/static/js/main.b1fb65aa.chunk.js.map",
+    "main.js": "/static/js/main.4de8cb5e.chunk.js",
+    "main.js.map": "/static/js/main.4de8cb5e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.493d5184.js",
     "runtime-main.js.map": "/static/js/runtime-main.493d5184.js.map",
     "static/css/2.c6cd3d7b.chunk.css": "/static/css/2.c6cd3d7b.chunk.css",
-    "static/js/2.ba01271c.chunk.js": "/static/js/2.ba01271c.chunk.js",
-    "static/js/2.ba01271c.chunk.js.map": "/static/js/2.ba01271c.chunk.js.map",
+    "static/js/2.84c12f2e.chunk.js": "/static/js/2.84c12f2e.chunk.js",
+    "static/js/2.84c12f2e.chunk.js.map": "/static/js/2.84c12f2e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c670c0f217d0351266619e03c2f73c5c.js": "/precache-manifest.c670c0f217d0351266619e03c2f73c5c.js",
+    "precache-manifest.91328ab4a310ec5d684b93a31cfffc9c.js": "/precache-manifest.91328ab4a310ec5d684b93a31cfffc9c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.c6cd3d7b.chunk.css.map": "/static/css/2.c6cd3d7b.chunk.css.map",
     "static/css/main.780d69b5.chunk.css.map": "/static/css/main.780d69b5.chunk.css.map",
-    "static/js/2.ba01271c.chunk.js.LICENSE.txt": "/static/js/2.ba01271c.chunk.js.LICENSE.txt",
+    "static/js/2.84c12f2e.chunk.js.LICENSE.txt": "/static/js/2.84c12f2e.chunk.js.LICENSE.txt",
     "static/media/KCEE8288.jpg": "/static/media/KCEE8288.55f6278c.jpg",
     "static/media/index.css": "/static/media/earwig_factory_rg.895bcfa3.ttf",
     "static/media/expo.png": "/static/media/expo.d21b5da9.png",
-    "static/media/health.svg": "/static/media/health.b955d390.svg",
+    "static/media/health.png": "/static/media/health.28edf28d.png",
     "static/media/insta.svg": "/static/media/insta.15d73dc9.svg",
     "static/media/telegram-1.png": "/static/media/telegram-1.4a494d2b.png",
     "static/media/would_you_rather.png": "/static/media/would_you_rather.57af97a4.png"
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.493d5184.js",
     "static/css/2.c6cd3d7b.chunk.css",
-    "static/js/2.ba01271c.chunk.js",
+    "static/js/2.84c12f2e.chunk.js",
     "static/css/main.780d69b5.chunk.css",
-    "static/js/main.b1fb65aa.chunk.js"
+    "static/js/main.4de8cb5e.chunk.js"
   ]
 }

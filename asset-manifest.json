@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.132da7e9.chunk.css",
-    "main.js": "/static/js/main.370dc836.chunk.js",
-    "main.js.map": "/static/js/main.370dc836.chunk.js.map",
+    "main.js": "/static/js/main.330951b8.chunk.js",
+    "main.js.map": "/static/js/main.330951b8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.493d5184.js",
     "runtime-main.js.map": "/static/js/runtime-main.493d5184.js.map",
     "static/css/2.c6cd3d7b.chunk.css": "/static/css/2.c6cd3d7b.chunk.css",
     "static/js/2.a6b8a836.chunk.js": "/static/js/2.a6b8a836.chunk.js",
     "static/js/2.a6b8a836.chunk.js.map": "/static/js/2.a6b8a836.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ffde6ca2a7480fec62430effb5149222.js": "/precache-manifest.ffde6ca2a7480fec62430effb5149222.js",
+    "precache-manifest.1ab1e660bb440e4405cf3138754fb952.js": "/precache-manifest.1ab1e660bb440e4405cf3138754fb952.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.c6cd3d7b.chunk.css.map": "/static/css/2.c6cd3d7b.chunk.css.map",
     "static/css/main.132da7e9.chunk.css.map": "/static/css/main.132da7e9.chunk.css.map",
@@ -20,7 +20,7 @@
     "static/media/flash_cards.png": "/static/media/flash_cards.9bdb4087.png",
     "static/media/health.png": "/static/media/health.28edf28d.png",
     "static/media/insta.svg": "/static/media/insta.15d73dc9.svg",
-    "static/media/telegram-1.png": "/static/media/telegram-1.4a494d2b.png",
+    "static/media/photoUploader.png": "/static/media/photoUploader.10b598ca.png",
     "static/media/would_you_rather.png": "/static/media/would_you_rather.57af97a4.png"
   },
   "entrypoints": [
@@ -28,6 +28,6 @@
     "static/css/2.c6cd3d7b.chunk.css",
     "static/js/2.a6b8a836.chunk.js",
     "static/css/main.132da7e9.chunk.css",
-    "static/js/main.370dc836.chunk.js"
+    "static/js/main.330951b8.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f3009760faefbfbeb2bdc39896c68ab",
+    "revision": "3948befabc29a3d6eeda95773794f91c",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.c6cd3d7b.chunk.css"
   },
   {
-    "revision": "13d9b72d57c648c8623d",
+    "revision": "5d8792a70ab1d9379475",
     "url": "/static/css/main.132da7e9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.a6b8a836.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13d9b72d57c648c8623d",
-    "url": "/static/js/main.370dc836.chunk.js"
+    "revision": "5d8792a70ab1d9379475",
+    "url": "/static/js/main.330951b8.chunk.js"
   },
   {
     "revision": "2b748575d325adc11ce4",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/insta.15d73dc9.svg"
   },
   {
-    "revision": "4a494d2b9b3d0c9317274b6b2465e3f8",
-    "url": "/static/media/telegram-1.4a494d2b.png"
+    "revision": "10b598ca59689d7120837cfbac8f2d7d",
+    "url": "/static/media/photoUploader.10b598ca.png"
   },
   {
     "revision": "57af97a4b21243ea3da52a0f60266cb6",

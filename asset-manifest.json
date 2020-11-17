@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e30cde00.chunk.css",
-    "main.js": "/static/js/main.cf4e6c66.chunk.js",
-    "main.js.map": "/static/js/main.cf4e6c66.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.493d5184.js",
-    "runtime-main.js.map": "/static/js/runtime-main.493d5184.js.map",
-    "static/css/2.c6cd3d7b.chunk.css": "/static/css/2.c6cd3d7b.chunk.css",
-    "static/js/2.0c6ac26c.chunk.js": "/static/js/2.0c6ac26c.chunk.js",
-    "static/js/2.0c6ac26c.chunk.js.map": "/static/js/2.0c6ac26c.chunk.js.map",
+    "main.css": "/static/css/main.c0641f9b.chunk.css",
+    "main.js": "/static/js/main.36d1e606.chunk.js",
+    "main.js.map": "/static/js/main.36d1e606.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6b3488d1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6b3488d1.js.map",
+    "static/css/2.bce4faa4.chunk.css": "/static/css/2.bce4faa4.chunk.css",
+    "static/js/2.62fdbdb5.chunk.js": "/static/js/2.62fdbdb5.chunk.js",
+    "static/js/2.62fdbdb5.chunk.js.map": "/static/js/2.62fdbdb5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.05d990afd6a2268cfbb8d6a65fbdcf37.js": "/precache-manifest.05d990afd6a2268cfbb8d6a65fbdcf37.js",
+    "precache-manifest.47c2c3bf964643813ed664a6a34d49eb.js": "/precache-manifest.47c2c3bf964643813ed664a6a34d49eb.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.c6cd3d7b.chunk.css.map": "/static/css/2.c6cd3d7b.chunk.css.map",
-    "static/css/main.e30cde00.chunk.css.map": "/static/css/main.e30cde00.chunk.css.map",
-    "static/js/2.0c6ac26c.chunk.js.LICENSE.txt": "/static/js/2.0c6ac26c.chunk.js.LICENSE.txt",
+    "static/css/2.bce4faa4.chunk.css.map": "/static/css/2.bce4faa4.chunk.css.map",
+    "static/css/main.c0641f9b.chunk.css.map": "/static/css/main.c0641f9b.chunk.css.map",
+    "static/js/2.62fdbdb5.chunk.js.LICENSE.txt": "/static/js/2.62fdbdb5.chunk.js.LICENSE.txt",
+    "static/media/CryptoLearn.png": "/static/media/CryptoLearn.c306cdb1.png",
+    "static/media/ForexCopy.png": "/static/media/ForexCopy.d476e6f9.png",
     "static/media/KCEE8288.jpg": "/static/media/KCEE8288.55f6278c.jpg",
     "static/media/company_team_icon.png": "/static/media/company_team_icon.cd62e153.png",
     "static/media/index.css": "/static/media/earwig_factory_rg.895bcfa3.ttf",
@@ -26,10 +28,10 @@
     "static/media/would_you_rather.png": "/static/media/would_you_rather.57af97a4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.493d5184.js",
-    "static/css/2.c6cd3d7b.chunk.css",
-    "static/js/2.0c6ac26c.chunk.js",
-    "static/css/main.e30cde00.chunk.css",
-    "static/js/main.cf4e6c66.chunk.js"
+    "static/js/runtime-main.6b3488d1.js",
+    "static/css/2.bce4faa4.chunk.css",
+    "static/js/2.62fdbdb5.chunk.js",
+    "static/css/main.c0641f9b.chunk.css",
+    "static/js/main.36d1e606.chunk.js"
   ]
 }

@@ -1,31 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4b132f0d81138b1f7a7dc52435d113b",
+    "revision": "c2dfdfa557d0c76422ef4cdbe0bfcf0f",
     "url": "/index.html"
   },
   {
-    "revision": "3c38e1c3a2ae3251a27d",
-    "url": "/static/css/2.c6cd3d7b.chunk.css"
+    "revision": "b19b2efb342620e01ba4",
+    "url": "/static/css/2.bce4faa4.chunk.css"
   },
   {
-    "revision": "523a4a3a0e2f1a0452f3",
-    "url": "/static/css/main.e30cde00.chunk.css"
+    "revision": "4851f23ca4bdffcc7cb2",
+    "url": "/static/css/main.c0641f9b.chunk.css"
   },
   {
-    "revision": "3c38e1c3a2ae3251a27d",
-    "url": "/static/js/2.0c6ac26c.chunk.js"
+    "revision": "b19b2efb342620e01ba4",
+    "url": "/static/js/2.62fdbdb5.chunk.js"
   },
   {
-    "revision": "df8be702f0cc9d299c0ff42ca03d3e40",
-    "url": "/static/js/2.0c6ac26c.chunk.js.LICENSE.txt"
+    "revision": "1b9cc396521eecb2045c787139670fba",
+    "url": "/static/js/2.62fdbdb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "523a4a3a0e2f1a0452f3",
-    "url": "/static/js/main.cf4e6c66.chunk.js"
+    "revision": "4851f23ca4bdffcc7cb2",
+    "url": "/static/js/main.36d1e606.chunk.js"
   },
   {
-    "revision": "2b748575d325adc11ce4",
-    "url": "/static/js/runtime-main.493d5184.js"
+    "revision": "efe25b4b8d1f7af9da4b",
+    "url": "/static/js/runtime-main.6b3488d1.js"
+  },
+  {
+    "revision": "c306cdb1e296775b9c6ab4ca264b3c31",
+    "url": "/static/media/CryptoLearn.c306cdb1.png"
+  },
+  {
+    "revision": "d476e6f9570041d762106ca9ba1bdd95",
+    "url": "/static/media/ForexCopy.d476e6f9.png"
   },
   {
     "revision": "55f6278cfeaab43a2785364a05110a45",

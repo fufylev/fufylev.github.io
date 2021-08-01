@@ -1,37 +1,34 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0641f9b.chunk.css",
-    "main.js": "/static/js/main.36d1e606.chunk.js",
-    "main.js.map": "/static/js/main.36d1e606.chunk.js.map",
+    "main.css": "/static/css/main.d1fb5eb4.chunk.css",
+    "main.js": "/static/js/main.7e479ede.chunk.js",
+    "main.js.map": "/static/js/main.7e479ede.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6b3488d1.js",
     "runtime-main.js.map": "/static/js/runtime-main.6b3488d1.js.map",
     "static/css/2.bce4faa4.chunk.css": "/static/css/2.bce4faa4.chunk.css",
-    "static/js/2.62fdbdb5.chunk.js": "/static/js/2.62fdbdb5.chunk.js",
-    "static/js/2.62fdbdb5.chunk.js.map": "/static/js/2.62fdbdb5.chunk.js.map",
+    "static/js/2.19450ffe.chunk.js": "/static/js/2.19450ffe.chunk.js",
+    "static/js/2.19450ffe.chunk.js.map": "/static/js/2.19450ffe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.47c2c3bf964643813ed664a6a34d49eb.js": "/precache-manifest.47c2c3bf964643813ed664a6a34d49eb.js",
+    "precache-manifest.be1871a05f817a79d859bdecf8d51d0b.js": "/precache-manifest.be1871a05f817a79d859bdecf8d51d0b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.bce4faa4.chunk.css.map": "/static/css/2.bce4faa4.chunk.css.map",
-    "static/css/main.c0641f9b.chunk.css.map": "/static/css/main.c0641f9b.chunk.css.map",
-    "static/js/2.62fdbdb5.chunk.js.LICENSE.txt": "/static/js/2.62fdbdb5.chunk.js.LICENSE.txt",
+    "static/css/main.d1fb5eb4.chunk.css.map": "/static/css/main.d1fb5eb4.chunk.css.map",
+    "static/js/2.19450ffe.chunk.js.LICENSE.txt": "/static/js/2.19450ffe.chunk.js.LICENSE.txt",
     "static/media/CryptoLearn.png": "/static/media/CryptoLearn.c306cdb1.png",
     "static/media/ForexCopy.png": "/static/media/ForexCopy.d476e6f9.png",
+    "static/media/Instaverify.png": "/static/media/Instaverify.120b811a.png",
     "static/media/KCEE8288.jpg": "/static/media/KCEE8288.55f6278c.jpg",
     "static/media/company_team_icon.png": "/static/media/company_team_icon.cd62e153.png",
     "static/media/index.css": "/static/media/earwig_factory_rg.895bcfa3.ttf",
     "static/media/expo.png": "/static/media/expo.d21b5da9.png",
-    "static/media/flash_cards.png": "/static/media/flash_cards.9bdb4087.png",
     "static/media/forex.png": "/static/media/forex.4c1ad964.png",
-    "static/media/health.png": "/static/media/health.28edf28d.png",
-    "static/media/insta.svg": "/static/media/insta.15d73dc9.svg",
-    "static/media/photoUploader.png": "/static/media/photoUploader.10b598ca.png",
-    "static/media/would_you_rather.png": "/static/media/would_you_rather.57af97a4.png"
+    "static/media/insta.svg": "/static/media/insta.15d73dc9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6b3488d1.js",
     "static/css/2.bce4faa4.chunk.css",
-    "static/js/2.62fdbdb5.chunk.js",
-    "static/css/main.c0641f9b.chunk.css",
-    "static/js/main.36d1e606.chunk.js"
+    "static/js/2.19450ffe.chunk.js",
+    "static/css/main.d1fb5eb4.chunk.css",
+    "static/js/main.7e479ede.chunk.js"
   ]
 }

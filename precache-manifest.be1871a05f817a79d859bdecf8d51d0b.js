@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2dfdfa557d0c76422ef4cdbe0bfcf0f",
+    "revision": "9c9a57a5ec0cfabf961b37779282f197",
     "url": "/index.html"
   },
   {
-    "revision": "b19b2efb342620e01ba4",
+    "revision": "ae3f8e16ba1427ac8744",
     "url": "/static/css/2.bce4faa4.chunk.css"
   },
   {
-    "revision": "4851f23ca4bdffcc7cb2",
-    "url": "/static/css/main.c0641f9b.chunk.css"
+    "revision": "d88532f6c737691238d4",
+    "url": "/static/css/main.d1fb5eb4.chunk.css"
   },
   {
-    "revision": "b19b2efb342620e01ba4",
-    "url": "/static/js/2.62fdbdb5.chunk.js"
+    "revision": "ae3f8e16ba1427ac8744",
+    "url": "/static/js/2.19450ffe.chunk.js"
   },
   {
     "revision": "1b9cc396521eecb2045c787139670fba",
-    "url": "/static/js/2.62fdbdb5.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.19450ffe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4851f23ca4bdffcc7cb2",
-    "url": "/static/js/main.36d1e606.chunk.js"
+    "revision": "d88532f6c737691238d4",
+    "url": "/static/js/main.7e479ede.chunk.js"
   },
   {
     "revision": "efe25b4b8d1f7af9da4b",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d476e6f9570041d762106ca9ba1bdd95",
     "url": "/static/media/ForexCopy.d476e6f9.png"
+  },
+  {
+    "revision": "120b811a428a9df0504b5866cfa9c4cc",
+    "url": "/static/media/Instaverify.120b811a.png"
   },
   {
     "revision": "55f6278cfeaab43a2785364a05110a45",
@@ -52,27 +56,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/expo.d21b5da9.png"
   },
   {
-    "revision": "9bdb4087e1dfad4109294cef0818d115",
-    "url": "/static/media/flash_cards.9bdb4087.png"
-  },
-  {
     "revision": "4c1ad964e2de81aeec1167923a94090b",
     "url": "/static/media/forex.4c1ad964.png"
   },
   {
-    "revision": "28edf28dd1161787a3e711e58a2f37a3",
-    "url": "/static/media/health.28edf28d.png"
-  },
-  {
     "revision": "15d73dc9ac9478a952a828539f47f579",
     "url": "/static/media/insta.15d73dc9.svg"
-  },
-  {
-    "revision": "10b598ca59689d7120837cfbac8f2d7d",
-    "url": "/static/media/photoUploader.10b598ca.png"
-  },
-  {
-    "revision": "57af97a4b21243ea3da52a0f60266cb6",
-    "url": "/static/media/would_you_rather.57af97a4.png"
   }
 ]);

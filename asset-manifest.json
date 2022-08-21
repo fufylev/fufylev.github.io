@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1fb5eb4.chunk.css",
-    "main.js": "/static/js/main.f76c62a1.chunk.js",
-    "main.js.map": "/static/js/main.f76c62a1.chunk.js.map",
+    "main.css": "/static/css/main.29559687.chunk.css",
+    "main.js": "/static/js/main.e50e718d.chunk.js",
+    "main.js.map": "/static/js/main.e50e718d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6b3488d1.js",
     "runtime-main.js.map": "/static/js/runtime-main.6b3488d1.js.map",
     "static/css/2.bce4faa4.chunk.css": "/static/css/2.bce4faa4.chunk.css",
-    "static/js/2.7cfda0a4.chunk.js": "/static/js/2.7cfda0a4.chunk.js",
-    "static/js/2.7cfda0a4.chunk.js.map": "/static/js/2.7cfda0a4.chunk.js.map",
+    "static/js/2.35e4bd23.chunk.js": "/static/js/2.35e4bd23.chunk.js",
+    "static/js/2.35e4bd23.chunk.js.map": "/static/js/2.35e4bd23.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7aa9aec10e35e43404cc110f12d3aae0.js": "/precache-manifest.7aa9aec10e35e43404cc110f12d3aae0.js",
+    "precache-manifest.a5147b643fe99a1af36d7c9a25fb461e.js": "/precache-manifest.a5147b643fe99a1af36d7c9a25fb461e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.bce4faa4.chunk.css.map": "/static/css/2.bce4faa4.chunk.css.map",
-    "static/css/main.d1fb5eb4.chunk.css.map": "/static/css/main.d1fb5eb4.chunk.css.map",
-    "static/js/2.7cfda0a4.chunk.js.LICENSE.txt": "/static/js/2.7cfda0a4.chunk.js.LICENSE.txt",
+    "static/css/main.29559687.chunk.css.map": "/static/css/main.29559687.chunk.css.map",
+    "static/js/2.35e4bd23.chunk.js.LICENSE.txt": "/static/js/2.35e4bd23.chunk.js.LICENSE.txt",
+    "static/media/216.png": "/static/media/216.d96f8271.png",
     "static/media/CryptoLearn.png": "/static/media/CryptoLearn.c306cdb1.png",
     "static/media/ForexCopy.png": "/static/media/ForexCopy.d476e6f9.png",
     "static/media/Instaverify.png": "/static/media/Instaverify.120b811a.png",
@@ -21,14 +22,15 @@
     "static/media/company_team_icon.png": "/static/media/company_team_icon.cd62e153.png",
     "static/media/index.css": "/static/media/earwig_factory_rg.895bcfa3.ttf",
     "static/media/expo.png": "/static/media/expo.d21b5da9.png",
+    "static/media/favicon.png": "/static/media/favicon.9d68c31d.png",
     "static/media/forex.png": "/static/media/forex.4c1ad964.png",
     "static/media/insta.svg": "/static/media/insta.15d73dc9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6b3488d1.js",
     "static/css/2.bce4faa4.chunk.css",
-    "static/js/2.7cfda0a4.chunk.js",
-    "static/css/main.d1fb5eb4.chunk.css",
-    "static/js/main.f76c62a1.chunk.js"
+    "static/js/2.35e4bd23.chunk.js",
+    "static/css/main.29559687.chunk.css",
+    "static/js/main.e50e718d.chunk.js"
   ]
 }

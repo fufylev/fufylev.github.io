@@ -1,36 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.29559687.chunk.css",
-    "main.js": "/static/js/main.51273b44.chunk.js",
-    "main.js.map": "/static/js/main.51273b44.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6b3488d1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6b3488d1.js.map",
-    "static/css/2.bce4faa4.chunk.css": "/static/css/2.bce4faa4.chunk.css",
-    "static/js/2.35e4bd23.chunk.js": "/static/js/2.35e4bd23.chunk.js",
-    "static/js/2.35e4bd23.chunk.js.map": "/static/js/2.35e4bd23.chunk.js.map",
+    "main.css": "/static/css/main.b0f12018.css",
+    "main.js": "/static/js/main.15e5ac6f.js",
+    "static/media/Instaverify.png": "/static/media/Instaverify.6c4e3199df1efe1f59b3.png",
+    "static/media/forex.png": "/static/media/forex.051dc54521edaa3e34ec.png",
+    "static/media/earwig_factory_rg.ttf?iefix": "/static/media/earwig_factory_rg.2368ac42067c0cbf718c.ttf",
+    "static/media/favicon.png": "/static/media/favicon.942d16f1dcae179c4212.png",
+    "static/media/KCEE8288.jpg": "/static/media/KCEE8288.a579a54611d40c52acec.jpg",
+    "static/media/216.png": "/static/media/216.5381bccee2f90d31d05e.png",
+    "static/media/company_team_icon.png": "/static/media/company_team_icon.e3e4aead0c6174e68b13.png",
+    "static/media/ForexCopy.png": "/static/media/ForexCopy.77d04c64ba6b082dbd4f.png",
+    "static/media/expo.png": "/static/media/expo.59ef1a46a3fb4ea479c0.png",
+    "static/media/CryptoLearn.png": "/static/media/CryptoLearn.997e16d1e4a01aaca387.png",
+    "static/media/insta.svg": "/static/media/insta.fd1064c944b4f42e74e809f0e5656632.svg",
     "index.html": "/index.html",
-    "precache-manifest.9eae8504f4ae0b9adef827582f96e966.js": "/precache-manifest.9eae8504f4ae0b9adef827582f96e966.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.bce4faa4.chunk.css.map": "/static/css/2.bce4faa4.chunk.css.map",
-    "static/css/main.29559687.chunk.css.map": "/static/css/main.29559687.chunk.css.map",
-    "static/js/2.35e4bd23.chunk.js.LICENSE.txt": "/static/js/2.35e4bd23.chunk.js.LICENSE.txt",
-    "static/media/216.png": "/static/media/216.d96f8271.png",
-    "static/media/CryptoLearn.png": "/static/media/CryptoLearn.c306cdb1.png",
-    "static/media/ForexCopy.png": "/static/media/ForexCopy.d476e6f9.png",
-    "static/media/Instaverify.png": "/static/media/Instaverify.120b811a.png",
-    "static/media/KCEE8288.jpg": "/static/media/KCEE8288.55f6278c.jpg",
-    "static/media/company_team_icon.png": "/static/media/company_team_icon.cd62e153.png",
-    "static/media/index.css": "/static/media/earwig_factory_rg.895bcfa3.ttf",
-    "static/media/expo.png": "/static/media/expo.d21b5da9.png",
-    "static/media/favicon.png": "/static/media/favicon.9d68c31d.png",
-    "static/media/forex.png": "/static/media/forex.4c1ad964.png",
-    "static/media/insta.svg": "/static/media/insta.15d73dc9.svg"
+    "main.b0f12018.css.map": "/static/css/main.b0f12018.css.map",
+    "main.15e5ac6f.js.map": "/static/js/main.15e5ac6f.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b3488d1.js",
-    "static/css/2.bce4faa4.chunk.css",
-    "static/js/2.35e4bd23.chunk.js",
-    "static/css/main.29559687.chunk.css",
-    "static/js/main.51273b44.chunk.js"
+    "static/css/main.b0f12018.css",
+    "static/js/main.15e5ac6f.js"
   ]
 }

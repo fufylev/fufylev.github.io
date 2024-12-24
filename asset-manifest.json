@@ -1,24 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.b0f12018.css",
-    "main.js": "/static/js/main.fb2ceb05.js",
+    "main.js": "/static/js/main.390eea2c.js",
     "static/media/Instaverify.png": "/static/media/Instaverify.6c4e3199df1efe1f59b3.png",
-    "static/media/forex.png": "/static/media/forex.051dc54521edaa3e34ec.png",
     "static/media/earwig_factory_rg.ttf?iefix": "/static/media/earwig_factory_rg.2368ac42067c0cbf718c.ttf",
     "static/media/favicon.png": "/static/media/favicon.942d16f1dcae179c4212.png",
     "static/media/KCEE8288.jpg": "/static/media/KCEE8288.a579a54611d40c52acec.jpg",
     "static/media/216.png": "/static/media/216.5381bccee2f90d31d05e.png",
-    "static/media/company_team_icon.png": "/static/media/company_team_icon.e3e4aead0c6174e68b13.png",
     "static/media/ForexCopy.png": "/static/media/ForexCopy.77d04c64ba6b082dbd4f.png",
-    "static/media/expo.png": "/static/media/expo.59ef1a46a3fb4ea479c0.png",
     "static/media/CryptoLearn.png": "/static/media/CryptoLearn.997e16d1e4a01aaca387.png",
     "static/media/insta.svg": "/static/media/insta.fd1064c944b4f42e74e809f0e5656632.svg",
     "index.html": "/index.html",
     "main.b0f12018.css.map": "/static/css/main.b0f12018.css.map",
-    "main.fb2ceb05.js.map": "/static/js/main.fb2ceb05.js.map"
+    "main.390eea2c.js.map": "/static/js/main.390eea2c.js.map"
   },
   "entrypoints": [
     "static/css/main.b0f12018.css",
-    "static/js/main.fb2ceb05.js"
+    "static/js/main.390eea2c.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b0f12018.css",
-    "main.js": "/static/js/main.390eea2c.js",
+    "main.js": "/static/js/main.4fe7fb97.js",
     "static/media/Instaverify.png": "/static/media/Instaverify.6c4e3199df1efe1f59b3.png",
     "static/media/earwig_factory_rg.ttf?iefix": "/static/media/earwig_factory_rg.2368ac42067c0cbf718c.ttf",
     "static/media/favicon.png": "/static/media/favicon.942d16f1dcae179c4212.png",
@@ -12,10 +12,10 @@
     "static/media/insta.svg": "/static/media/insta.fd1064c944b4f42e74e809f0e5656632.svg",
     "index.html": "/index.html",
     "main.b0f12018.css.map": "/static/css/main.b0f12018.css.map",
-    "main.390eea2c.js.map": "/static/js/main.390eea2c.js.map"
+    "main.4fe7fb97.js.map": "/static/js/main.4fe7fb97.js.map"
   },
   "entrypoints": [
     "static/css/main.b0f12018.css",
-    "static/js/main.390eea2c.js"
+    "static/js/main.4fe7fb97.js"
   ]
 }
